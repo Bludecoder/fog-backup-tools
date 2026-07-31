@@ -1,0 +1,18 @@
+{
+  "id": "fog-backup-tools",
+  "title": "Fog Backup Tools",
+  "description": "Adds 'Export Fog' and 'Import Fog' tools for scene-based Fog of War backups and restoration.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "BluDecoder"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.365"
+  },
+  "esmodules": ["scripts/fog-backup-tools.js"],
+  "styles": ["styles/fog-backup-tools.css"],
+  "socket": true
+}
