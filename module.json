@@ -15,13 +15,13 @@
   "esmodules": ["scripts/fog-backup-tools.js"],
   "styles": ["styles/fog-backup-tools.css"],
   "socket": true,
-  "url": "https://github.com/Bludecoder2/fog-backup-tools",
-  "manifest": "https://github.com/Bludecoder2/fog-backup-tools/releases/latest/download/module.json",
-  "download": "https://github.com/Bludecoder2/fog-backup-tools/releases/download/v1.0.0/fog-backup-tools.zip",
+  "url": "https://github.com/Bludecoder/fog-backup-tools",
+  "manifest": "https://github.com/Bludecoder/fog-backup-tools/releases/latest/download/module.json",
+  "download": "https://github.com/Bludecoder/fog-backup-tools/releases/download/v1.0.0/fog-backup-tools.zip",
   "license": "LICENSE"
   "readme": "README.md",
-  "bugs": "https://github.com/Bludecoder2/fog-backup-tools/issues",
-  "changelog": "https://github.com/Bludecoder2/fog-backup-tools/releases",
+  "bugs": "https://github.com/Bludecoder/fog-backup-tools/issues",
+  "changelog": "https://github.com/Bludecoder/fog-backup-tools/releases",
   "media": [
     {
       "type": "setup",
